@@ -31,9 +31,9 @@ Getting Started
 To get started with Android/LineageOS, you'll need to get
 familiar with [Git and Repo](https://source.android.com/source/using-repo.html).
 
-To initialize your local repository using the LineageOS trees, use a command like this:
+To initialize your local repository using mostly the LineageOS trees with my own variations, use a command like this:
 
-    repo init -u git://github.com/LineageOS/android.git -b cm-14.1
+    repo init -u git://github.com/bananafunction/android.git -b cm-14.1
 
 Then to sync up:
 
